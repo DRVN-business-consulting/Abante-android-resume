@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="profile">Profile</string>
+    <string name="skills">Skills</string>
+    <string name="experience">Experience</string>
+    <string name="education">Education</string>
+    <string name="royce_christopher_m_abante">Royce Christopher M. Abante</string>
+    <string name="quezon_city_metro_manila">Quezon City, Metro Manila</string>
+</resources>
